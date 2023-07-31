@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Quattrocento&display=swap');
+
+.navbar {
+    margin-bottom: 0;
+    color: white;
+  }
+  .carousel-item {
+    transition: transform 10s ease, opacity .5s ease-out
+  }
+
+  h1,h5,.navbar-brand {
+    font-family: 'Oswald', sans-serif;
+  }
+  p,.nav-item, .form-group, button{
+    font-family: 'Quattrocento', serif;
+  }
+  button, .buton{
+    box-shadow: 6px 19px 19px 0px rgba(0,0,0,0.75);
+    
+  }
